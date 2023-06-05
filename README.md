@@ -1,6 +1,6 @@
 # Global-Terrorism-Insights-Visualizing-the-Impact-and-Trends
 Tableau Explanatory Visualizations
-
+```
 This Tableau dashboard provides insights into global terrorism by visualizing data on incidents, impact and trends. The main visualizations are a world map, pie charts, column charts and data tables.   
 
 The world map shows the geographical distribution of terrorist incidents, highlighting the most affected countries and regions. Pie charts break down incidents by attributes like weapon type, attack type and target type. 
@@ -12,3 +12,4 @@ The data tables list exact details for each incident such as the date, location,
 Data filters allow you to analyze specific time periods and attribute values. This reveals trends over time and for particular groups. You can see how hostage incidents, civilian casualties and other metrics have changed from year to year and vary by country.
 
 Together, the visualizations provide an overview of the scope and severity of terrorism worldwide. The interactive filters enable in-depth analyses of impact, trends and effectiveness of counter-terrorism efforts.
+```
