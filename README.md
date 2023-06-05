@@ -2,6 +2,10 @@
 **Tableau Explanatory Visualizations
 **
 
+[Link to the Dataset ](https://thenisham-my.sharepoint.com/:x:/g/personal/nishamghimire5_thenisham_onmicrosoft_com/EQTr2NExwGpAkdTiWg5_7QUBE4NMoJAAZy3Ud7CyYJ9BDg?e=WTsApW "Dataset ")
+
+[Youtube Video Link](https://youtu.be/OJ9CXkoyJ2Q "Youtube Video Link")
+
 This Tableau dashboard provides insights into global terrorism by visualizing data on incidents, impact and trends. The main visualizations are a world map, pie charts, column charts and data tables.   
 
 The world map shows the geographical distribution of terrorist incidents, highlighting the most affected countries and regions. Pie charts break down incidents by attributes like weapon type, attack type and target type. 
