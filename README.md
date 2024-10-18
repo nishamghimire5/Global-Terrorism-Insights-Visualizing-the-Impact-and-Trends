@@ -1,6 +1,5 @@
 # Global-Terrorism-Insights-Visualizing-the-Impact-and-Trends
-**Tableau Explanatory Visualizations
-**
+**Tableau Explanatory Visualizations**
 
 [Link to the Dataset ](https://thenisham-my.sharepoint.com/:x:/g/personal/nishamghimire5_thenisham_onmicrosoft_com/EQTr2NExwGpAkdTiWg5_7QUBE4NMoJAAZy3Ud7CyYJ9BDg?e=WTsApW "Dataset ")
 
